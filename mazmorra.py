@@ -1,5 +1,3 @@
-derrot = 0
-victoria = 0
 derrotMostruos = 0
 monstruovenc = 0
 derrota = 0
